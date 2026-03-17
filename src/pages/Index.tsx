@@ -78,9 +78,6 @@ export default function Index() {
             {/* Institution */}
             <div className={`text-center mb-10 transition-all duration-700 ${visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"}`}
               style={{ transitionDelay: "0.2s" }}>
-              <p className="text-white/50 text-sm tracking-[0.2em] uppercase font-golos mb-1">
-                Государственное бюджетное общеобразовательное учреждение
-              </p>
               <p className="text-white/70 text-base tracking-wider font-golos">
                 МБОУ СОШ №18
               </p>
