@@ -144,7 +144,7 @@ export default function Index() {
                   Шевченко Павел Сергеевич
                 </p>
                 <p className="text-white/50 text-sm font-golos">
-                  10 «А» класс
+                  9 «А» класс
                 </p>
               </div>
 
