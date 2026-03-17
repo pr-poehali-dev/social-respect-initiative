@@ -144,7 +144,7 @@ export default function Index() {
                   <span className="text-yellow-400/80 text-xs tracking-[0.2em] uppercase font-golos font-medium">Автор проекта</span>
                 </div>
                 <p className="text-white text-xl font-oswald font-semibold tracking-wide mb-1">
-                  Иванов Иван Иванович
+                  Шевченко Павел Сергеевич
                 </p>
                 <p className="text-white/50 text-sm font-golos">
                   10 «А» класс
@@ -163,10 +163,10 @@ export default function Index() {
                   <span className="text-cyan-400/80 text-xs tracking-[0.2em] uppercase font-golos font-medium">Руководитель</span>
                 </div>
                 <p className="text-white text-xl font-oswald font-semibold tracking-wide mb-1">
-                  Петрова Мария Сергеевна
+                  Лопатина Валентина Николаевна
                 </p>
                 <p className="text-white/50 text-sm font-golos">
-                  Учитель обществознания
+                  Учитель физики
                 </p>
               </div>
             </div>
