@@ -82,7 +82,7 @@ export default function Index() {
                 Государственное бюджетное общеобразовательное учреждение
               </p>
               <p className="text-white/70 text-base tracking-wider font-golos">
-                Школа №___ &nbsp;·&nbsp; г. Москва
+                МБОУ СОШ №18
               </p>
             </div>
 
